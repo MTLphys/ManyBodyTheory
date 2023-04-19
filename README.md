@@ -21,6 +21,6 @@ or
 **I know this second option looks more challenging but it makes things much smoother as now you can dirrectly update the notebook in the following manner**
 
 1. press `ctrl + shift + P`
-2. type `Git:Pull`
+2. type 'Git:Pull' and press `enter`
 
 **and you are now entirely up to date**
