@@ -24,3 +24,6 @@ or
 2. type 'Git:Pull' and press `enter`
 
 **and you are now entirely up to date**
+
+# Where to From here
+for the first clas
