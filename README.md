@@ -9,5 +9,6 @@ Before working along with this program it is nessisary to install anaconda local
 
 or
 1. open anaconda navigator navigate to vscode
-2. install python, jupyter, and github codespaces extensions
+2. install _python_, _jupyter_, and _github_ codespaces extensions
 3. then press `ctrl + shift + P`
+4. This opens a command box type in this box 
