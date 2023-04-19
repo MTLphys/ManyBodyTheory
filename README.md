@@ -1,5 +1,5 @@
 # ManyBodyTheory
-Python Based Solutions to Mahan's Many Body Theory Questions along with some introduction to using python
+A python course supplement for Many-Body Quantum Theory by Henrik Bruus and Karsten Flensberg
 
 # Getting Started 
 Before working along with this program it is nessisary to install anaconda locally, once this is done either:
